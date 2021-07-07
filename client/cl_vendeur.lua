@@ -60,6 +60,17 @@ Citizen.CreateThread(function()
 end)
 
 Citizen.CreateThread(function()
+    Citizen.Wait(2000)
+    print('Merci Nuskyy#1284')
+    print('Merci Nuskyy#1284')
+    print('Merci Nuskyy#1284')
+    print('Merci Nuskyy#1284')
+    print('Merci Nuskyy#1284')
+    print('Merci Nuskyy#1284')
+    Citizen.Wait(2000)
+end)
+
+Citizen.CreateThread(function()
     local hash = GetHashKey("g_m_m_chicold_01")
     while not HasModelLoaded(hash) do
     RequestModel(hash)
