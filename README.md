@@ -6,7 +6,7 @@
 
 Ce script est un vendeur d'armes illégale placé sur la map 
 
-0,04 ms grand max 
+0,04 ms
 
 ################### EN 
 
